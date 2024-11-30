@@ -1,0 +1,15 @@
+Student_ID,Student_Name,Math_Score,English_Score,Science_Score,History_Score,Total_Score,Average_Score,Grades
+1001,Alice,85,80,90,88,343,85.75,B
+1002,Bob,90,87,32,79,288,72,C
+1003,Charlie,44,75,85,84,288,72,C
+1004,David,88,83,89,86,346,86.5,B
+1005,Eva,92,34,91,94,311,77.75,C
+1006,Ben,76,54,78,90,298,74.5,C
+1007,Paul,92,65,62,80,299,74.75,C
+1008,Liam,88,90,56,43,277,69.25,D
+1008,Victorious,98,99,78,90,365,91.25,A
+1009,Gabriel,99,73,90,89,351,87.75,B
+1010,Jamian,78,94,85,78,335,83.75,B
+,,,,,,,,
+,Subject Average,84.55,75.82,76.00,81.91,,,
+,Class Average,,,,,318.2727273,79.57,
